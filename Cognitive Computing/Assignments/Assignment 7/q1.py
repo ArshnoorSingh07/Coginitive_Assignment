@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Part I: Randomized Sales Data Generation
-roll_number = 12345  # Change this to your roll number
+roll_number = 102317161
 np.random.seed(roll_number)
 
 # Generate sales data (12 months, 4 categories)
